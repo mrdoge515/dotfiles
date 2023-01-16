@@ -5,3 +5,4 @@
 | Browser | LibreWolf |
 | Terminal | Fluent Terminal |
 | Code editor | VScode |
+| Package manager | Scoop |
