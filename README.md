@@ -19,3 +19,6 @@ The layout is adjusted to 2160p display.
 | Taskbar | [TaskbarX](https://github.com/ChrisAnd1998/TaskbarX) |
 | Visualizer | [Lano Visualizer](https://github.com/MarcoPixel/Lano-Visualizer)
 | Music | [Music info](https://www.deviantart.com/starlender/art/Music-Player-Info-Rainmeter-Widget-787331050) |
+
+## Batch folder
+borderColor.bat - Sets accent color as the border color of windows.
